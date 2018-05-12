@@ -1,0 +1,37 @@
+_repo: The-Witness_16502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Lutz, Grace Livingston Hill
+    - Livingston, Grace
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: 'A powerful story of grace from the pen of Grace Livingston Hill. Star
+  athlete, student, and fraternity president, Paul Courtland watches while a college
+  classmate falls to an untimely death. Struck by his own part in the tragedy, he
+  seeks solace in the classmate''s peaceful room-and in the faith he has discovered.
+  A friend introduces him to a young woman who is certain to bring him out of his
+  somber mood- and into trouble. After yet another tragedy, Paul must choose: to follow
+  his emotions or his faith. Will his choice even matter to those around him?'
+gutenberg_issued: '2005-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- !lcsh 'Religious fiction'
+title: The Witness
+url: http://www.gutenberg.org/ebooks/16502
